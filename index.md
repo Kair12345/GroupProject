@@ -6,7 +6,7 @@ Corey Boulds, Oscar Dayton, Noah Williams, Kai Rosenbluth
 
 
 ## GUI Mockup #1 (Start Screen) 
-![Start Screen](https://raw.githubusercontent.com/Kair12345/GroupProject/25a08e799ed467316b8332d345e5eca8576e7c5b/Images/2048TitleScreen.gif)
+![Start Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/2048TitleScreen.png?raw=true)
 
 ## GUI Mockup #2 (Gameplay) 
 
