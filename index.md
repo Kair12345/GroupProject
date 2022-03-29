@@ -2,9 +2,10 @@
 
 
 A 2048 game
+Corey Boulds, Oscar Dayton, Noah Williams, Kai Rosenbluth
 
 
-## GUI Mockup #1 (Start Screen)  
+## GUI Mockup #1 (Start Screen) 
 
 ## GUI Mockup #2 (Gameplay) 
 
