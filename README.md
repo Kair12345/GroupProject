@@ -8,7 +8,7 @@ By Corey Boulds, Oscar Dayton, Kai Rosenbluth, Noah Williams.
 ![Start Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/2048TitleScreen.png?raw=true)
 
 ## GUI Mockup #2 (Gameplay) 
-
+![Gameplay Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/2048Gameplay.png?raw=true)
 
 ## GUI Mockup #3 (End Sceen) 
 ![End Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/2048YouLost.png?raw=true)
@@ -31,6 +31,7 @@ A 2048 game
 ![Start Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/TicTacToeTitelScreen.png?raw=true)
 
 ## GUI Mockup #2 (Gameplay) 
+![Gameplay Screen]()
 
 ## GUI Mockup #3 (End Sceen) 
 ![End Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/TicTacToeYouLost.png?raw=true)
