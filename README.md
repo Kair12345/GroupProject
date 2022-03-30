@@ -31,7 +31,7 @@ A 2048 game
 ![Start Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/TicTacToeTitelScreen.png?raw=true)
 
 ## GUI Mockup #2 (Gameplay) 
-![Gameplay Screen]()
+![Gameplay Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/TicTacToeGameplay.png?raw=true)
 
 ## GUI Mockup #3 (End Sceen) 
 ![End Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/TicTacToeYouLost.png?raw=true)
