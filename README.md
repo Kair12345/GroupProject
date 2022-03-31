@@ -22,7 +22,7 @@ By Corey Boulds, Oscar Dayton, Kai Rosenbluth, and Noah Williams.
 
 
 
-# Programming Project (A Tic Tac Toe game) 
+# Programming Project 2 (A Tic Tac Toe game) 
 
 
 
