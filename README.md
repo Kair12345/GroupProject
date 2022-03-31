@@ -14,7 +14,7 @@ By Corey Boulds, Oscar Dayton, Kai Rosenbluth, Noah Williams.
 ![End Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/2048YouLost.png?raw=true)
 
 ## CLass Diagram 
-![Diagram]()
+![Diagram](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/2048Diagram.png?raw=true)
 
 
 
