@@ -37,4 +37,4 @@ A Tic Tac Toe game
 ![End Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/TicTacToeYouLost.png?raw=true)
 
 ## CLass Diagram 
-![Diagram]() 
+![Diagram](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/TicTacToeDiagram.png?raw=true) 
