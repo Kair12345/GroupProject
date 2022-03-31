@@ -8,7 +8,7 @@ By Corey Boulds, Oscar Dayton, Kai Rosenbluth, Noah Williams.
 ![Start Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/2048TitleScreen.png?raw=true)
 
 ## GUI Mockup #2 (Gameplay) 
-![Gameplay Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/2048Diagram.png?raw=true)
+![Gameplay Screen]()
 
 ## GUI Mockup #3 (End Sceen) 
 ![End Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/2048YouLost.png?raw=true)
