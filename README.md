@@ -4,6 +4,7 @@ By Corey Boulds, Oscar Dayton, Kai Rosenbluth, Noah Williams.
 # Programming Project 1 (A 2048 Game) 
 
 
+
 ## GUI Mockup #1 (Start Screen) 
 ![Start Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/2048TitleScreen.png?raw=true)
 
@@ -21,10 +22,9 @@ By Corey Boulds, Oscar Dayton, Kai Rosenbluth, Noah Williams.
 
 
 
-# Programming Project 2
+# Programming Project (A Tic Tac Toe game) 
 
 
-A Tic Tac Toe game
 
 
 ## GUI Mockup #1 (Start Screen)  
@@ -36,5 +36,5 @@ A Tic Tac Toe game
 ## GUI Mockup #3 (End Sceen) 
 ![End Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/TicTacToeYouLost.png?raw=true)
 
-## CLass Diagram 
+## Class Diagram 
 ![Diagram](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/TicTacToeDiagram.png?raw=true) 
