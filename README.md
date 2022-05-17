@@ -35,11 +35,19 @@ Corey will also contribute to parts of our coding by helping make our implimenta
 
 
 ## Oscar: 
-Oscar's responsibilities for this project will be focused mainly around programming and editing our project to make it design elements fit together and to make sure code functions how it is supposed to.  
+Oscar's responsibilities for this project will be focused mainly around programming and editing our project to make it design elements fit together and to make sure code functions how it is supposed to. Making the code easier to understand and work with for others while also adding to it is a importent role to have that Oscar will take on for most of the duration of our coding.
 
-## Oscar's SOund Implementation  
+Here is an example of how Oscar adds to the project by making a .mp3 file work in our project: 
+## Oscar's Sound Implementation  
 ![Sound](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/OscarSoundContribution.png?raw=true)
 
 ## Kai: 
+Kai's responsibilities for this project will be mostly be working on the core programming components to make the application function. Things like object movement, collision detection, and screen changes will be worked on more specifically by Kai but with assistence from other team memebers. 
+
+Here is a example of a part of the code for collision detection written by Kai: 
+## Kai's Code 
+![Code](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/KaiCodeContribution.png?raw=true)
 
 ## Noah: 
+Noah's responsibilities for this project will be broader by having him help out with many parts of the project with a focus on organization. While every memeber will contribute to github, Noah will play a larger part in creating a more comprehensive group github page that better represents our project and its progress. 
+
