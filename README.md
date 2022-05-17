@@ -26,6 +26,8 @@ By Corey Boulds, Oscar Dayton, Kai Rosenbluth, and Noah Williams.
 
 ## Cory: 
 ### Corey's responsibilities for this project will be mostly based around art to be implimented into our coding project. Our plan is to remake the game 2048 and unique art is necessary to make the project our own opposed to a direct replica. Here is an example of how Corey will contribute to this group project: 
+## Corey's Art (For Tiles) 
+![Tile Art](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/2048TitleScreen.png?raw=true)
 
 ## Oscar: 
 
