@@ -24,6 +24,10 @@ By Corey Boulds, Oscar Dayton, Kai Rosenbluth, and Noah Williams.
 
 # Team Responsibilities:  
 
+## Cory: 
 
+## Oscar: 
 
+## Kai: 
 
+## Noah: 
