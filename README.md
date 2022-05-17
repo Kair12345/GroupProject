@@ -25,7 +25,7 @@ By Corey Boulds, Oscar Dayton, Kai Rosenbluth, and Noah Williams.
 # Team Responsibilities:  
 
 ## Cory: 
-Corey's responsibilities for this project will be mostly based around art to be implimented into our coding project. Our plan is to remake the game 2048 and unique art is necessary to make the project our own opposed to a direct replica. Corey has worked mainly in the piskel website and has been responcible for create the game screen, end screen, and design of our tiles. 
+Corey's responsibilities for this project will be mostly based around art to be implimented into our coding project. Our plan is to make the game 2048 and unique art is necessary to make the project our own opposed to a direct replica. Corey has worked mainly in the piskel website and has been responcible for create the game screen, end screen, and design of our tiles. 
 
 Here is an example of how Corey will contribute to this group project: 
 ## Corey's Art (For Tiles) 
