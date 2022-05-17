@@ -30,6 +30,7 @@ Corey's responsibilities for this project will be mostly based around art to be 
 Here is an example of how Corey will contribute to this group project: 
 ## Corey's Art (For Tiles) 
 ![Tile Art](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/CoreyTileArt.png?raw=true)
+
 Corey will also contribute to parts of our coding by helping make our implimentation of images to our code successful.  
 
 
