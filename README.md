@@ -35,6 +35,10 @@ Corey will also contribute to parts of our coding by helping make our implimenta
 
 
 ## Oscar: 
+Oscar's responsibilities for this project will be focused mainly around programming and editing our project to make it design elements fit together and to make sure code functions how it is supposed to.  
+
+## Oscar's SOund Implementation  
+![Sound](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/OscarSoundContribution.png?raw=true)
 
 ## Kai: 
 
