@@ -7,6 +7,9 @@ By Corey Boulds, Oscar Dayton, Kai Rosenbluth, and Noah Williams.
 
 ## GUI Mockup #1 (Start Screen) 
 ![Start Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/2048TitleScreen.png?raw=true)
+We have decided to change the startscreen to fit the 500 by 500 dimensions in our code. 
+## GUI Mockup #1 (New Start Screen)
+![New Start Screen]()
 
 ## GUI Mockup #2 (Gameplay) 
 ![Gameplay Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/2048Gameplay.png?raw=true)
