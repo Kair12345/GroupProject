@@ -26,8 +26,10 @@ Our class diagram has changed since the start of our project. We have decided to
 
 Here is the updated class diagram: 
 ## New Class Diagram 
-![New Diagram]()
+![New Diagram](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/UpdatedClassDiagram.png?raw=true)
 
+
+# Project Progress And Updates: 
 
 
 
