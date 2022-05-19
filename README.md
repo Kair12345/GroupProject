@@ -11,9 +11,9 @@ By Corey Boulds, Oscar Dayton, Kai Rosenbluth, and Noah Williams.
 ## GUI Mockup #2 (New Start Screen)
 ![New Start Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/startScreen.png?raw=true)
 
-## GUI Mockup #3 (Gameplay) 
+## GUI Mockup #3 (Gameplay Screen) 
 ![Gameplay Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/2048Gameplay.png?raw=true)
-## GUI Mockup #4 (Gameplay) 
+## GUI Mockup #4 (New Gameplay Screen) 
 ![New Gameplay Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/playScreen.png?raw=true)
 
 ## GUI Mockup #5 (End Sceen) 
