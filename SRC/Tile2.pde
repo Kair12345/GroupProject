@@ -1,41 +1,45 @@
 class Tile2 {
-  int x, y, speed, diam;
-  PImage tile2;
-  Tile2(int x, int y) {
+  float x, y, w, h, speedX, speedY,;
+  String tile;
+  PImage tile2, oscar;
+
+  Tile2() {
+    x = width/2;
+    y = height/2;
+    h = 32; 
+    w = 32; 
+    speedX = 0; 
+    speedY = 0; 
+
+    
+    oscar = loadImage("oscar.png");
+     
     this.x = x;
     this.y = y;
+    }
+  
+  void update(){
+     
+    x += speedX;
+    y += speedY; 
+    
   }
+  
+  
   void display() {
+    rect(x, y, w, h);
+    image(oscar, x, y, w, h);
+    //fill(0,255,0);
+   
+    
   }
 
-  //boolean intersect(Grid) {
+
+  //boolean intersect(Tile4) {
   //}
 
-
-
-
-
-// Kai did this part of the code implimenting the start of collision detection
-
-  boolean intersect(Tile2 t2) {
-    float distance = dist(x, y, t2.x, t2.y);
-    if (distance < 1) {
-      return true;
-    } else {
-      return false;
-    }
-  }
-
-
-    boolean intersect(Tile4 t4) {
-    float distance = dist(x, y, t4.x, t4.y);
-    if (distance < 1) {
-      return true;
-    } else {
-      return false;
-    }
-  }
+  //boolean intersect(Tile2) {
+  //}
   
- 
-  
+
 }
