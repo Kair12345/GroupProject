@@ -4,10 +4,10 @@ By Corey Boulds, Oscar Dayton, Kai Rosenbluth, and Noah Williams.
 # Programming Project 1 (A 2048 Game) 
 
 
+* We have decided to change the start, play, and end screen to fit the 500 by 500 dimensions in our code. Since we need a 4 by 4 grid it will be easier to make this image change then to code around it. 
 
 ## GUI Mockup #1 (Start Screen) 
 ![Start Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/2048TitleScreen.png?raw=true)
-We have decided to change the start screen to fit the 500 by 500 dimensions in our code. 
 ## GUI Mockup #2 (New Start Screen)
 ![New Start Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/startScreen.png?raw=true)
 
