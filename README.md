@@ -18,7 +18,7 @@ We have decided to change the start screen to fit the 500 by 500 dimensions in o
 ![End Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/2048YouLost.png?raw=true)
 We have decided to change the end screen to fit the 500 by 500 dimensions in our code. 
 ## GUI Mockup #3 (New End Sceen) 
-![New End Screen]()
+![New End Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/endScreen.png?raw=true)
 
 ## Class Diagram 
 ![Diagram](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/2048Diagram.png?raw=true)
