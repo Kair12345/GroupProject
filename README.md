@@ -69,6 +69,24 @@ Here is a example of how Noah organizes our github page to make it much better:
 ![Code](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/NoahOrganization.png?raw=true) 
 
 
+# App Progress Summary: 
+
+* We have set game, tile2, tile4, and grid as our 4 main classes to work with. (Update) We have decided to not work on the grid class until we get the rest of the app working. We will use the borders of the screen to stop the block movement. 
+
+* We have set up basic code for each class. 
+ 
+* The setup to collision detection has been added by creating boolean values when tiles come in contact. 
+
+* We have successfully implemented sound with a .mp3 file. (Update) We added a "loop()" line of code so the short sound file will not stop playing. 
+
+* We are working on getting the startScreen to switch to the playScreen though pressing a mouse button. 
+
+* We have placed text and a variable to the screen to show the player their score. 
+
+
+
+
+
 
 
 
