@@ -24,6 +24,7 @@ We have decided to change the end screen to fit the 500 by 500 dimensions in our
 
 ## Class Diagram 
 ![Diagram](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/2048Diagram.png?raw=true)
+
 Our class diagram has changed since the start of our project. We have decided to remove the entire "Grid" class because with the design of our tiles movement it was deemed unesasary 
 
 Here is the updated class diagram: 
