@@ -8,16 +8,18 @@ By Corey Boulds, Oscar Dayton, Kai Rosenbluth, and Noah Williams.
 ## GUI Mockup #1 (Start Screen) 
 ![Start Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/2048TitleScreen.png?raw=true)
 We have decided to change the start screen to fit the 500 by 500 dimensions in our code. 
-## GUI Mockup #1 (New Start Screen)
-![New Start Screen]()
+## GUI Mockup #2 (New Start Screen)
+![New Start Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/startScreen.png?raw=true)
 
-## GUI Mockup #2 (Gameplay) 
+## GUI Mockup #3 (Gameplay) 
 ![Gameplay Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/2048Gameplay.png?raw=true)
+## GUI Mockup #4 (Gameplay) 
+![New Gameplay Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/playScreen.png?raw=true)
 
-## GUI Mockup #3 (End Sceen) 
+## GUI Mockup #5 (End Sceen) 
 ![End Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/2048YouLost.png?raw=true)
 We have decided to change the end screen to fit the 500 by 500 dimensions in our code. 
-## GUI Mockup #3 (New End Sceen) 
+## GUI Mockup #6 (New End Sceen) 
 ![New End Screen](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/endScreen.png?raw=true)
 
 ## Class Diagram 
