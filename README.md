@@ -72,7 +72,7 @@ Here is a example of how Noah organizes our github page to make it much better:
 
 # App Progress Summary: 
 
-* We have set game, tile2, tile4, and grid as our 4 main classes to work with. (Update) We have decided to not work on the grid class until we get the rest of the app working. We will use the borders of the screen to stop the block movement. 
+* We have set game, tile2, tile4, and grid as our 4 main classes to work with. (Update) We have decided to not work on the grid class until we get the rest of the app working. We will use the borders of the screen to stop the tile movement. 
 
 * We have set up basic code for each class. 
  
