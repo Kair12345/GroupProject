@@ -86,12 +86,11 @@ Here is a example of how Noah organizes our github page to make it much better:
 
 * We got a tile to show up with some of our pixel art. 
 
-* We got our tile to move left, right, down, up but it goes off the screen and will not stop moving. (Update) We added a keyReleased function to stop the tile movement. 
+* We got our tile to move left, right, down, up using arrow keys but the tile goes off the screen and will not stop moving. (Update) We added a keyReleased function to stop the tile movement. 
 
 * We added a function to stop the movement of tiles as it reaches the left side, right side, bottem, or top of the screen. Unfortunately the tiles shake a bit before stopping. 
 
-* We changed the movement to be more like 2048 by changing the keyRelease function in order to make it so movement direction can not change until a the side of the screen is reached. 
-
+* We changed the movement to be more like 2048 by changing the keyRelease function in order to make it so movement direction can not change until a the side of the screen is reached. Unfortunately there is a problem where the tile permanently stops moving if you click  arrow keys of opposite directions. 
 
 
 
