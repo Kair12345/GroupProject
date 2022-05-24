@@ -92,6 +92,8 @@ Here is a example of how Noah organizes our github page to make it much better:
 
 * We changed the movement to be more like 2048 by changing the keyRelease function in order to make it so movement direction can not change until a the side of the screen is reached. Unfortunately there is a problem where the tile permanently stops moving if you click  arrow keys of opposite directions. 
 
+* We added one more tile to be displayed on screen. The new tile's code is the same as the first one but the tiles placement is different and it has different pixel art on it.  
+
 
 
 
