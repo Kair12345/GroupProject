@@ -90,7 +90,7 @@ Here is a example of how Noah organizes our github page to make it much better:
 
 * We added a function to stop the movement of tiles as it reaches the left side, right side, bottem, or top of the screen. Unfortunately the tiles shake a bit before stopping. 
 
-
+* We changed the movement to be more like 2048 by changing the keyRelease function in order to make it so movement direction can not change until a the side of the screen is reached. 
 
 
 
