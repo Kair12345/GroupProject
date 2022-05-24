@@ -84,6 +84,8 @@ Here is a example of how Noah organizes our github page to make it much better:
 
 * We have placed text and a variable to the screen to show the player their score. 
 
+* We got a tile to show up with some of our pixel art. 
+
 
 
 
