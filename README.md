@@ -86,6 +86,8 @@ Here is a example of how Noah organizes our github page to make it much better:
 
 * We got a tile to show up with some of our pixel art. 
 
+* We got our tile to move left, right, down, up but it goes off the screen and will not stop moving. 
+
 
 
 
