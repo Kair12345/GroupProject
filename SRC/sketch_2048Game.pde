@@ -1,6 +1,7 @@
 // By Corey Boulds, Oscar Dayton, Kai Rosenbluth, and Noah Williams
 ArrayList<Tile2>tile2s = new ArrayList<Tile2>();
 Tile2 t2;
+Tile4 t4;
 String k;
 int x, y, score;
 boolean play, left, right, up, down;
@@ -13,6 +14,7 @@ void setup() {
   size(500, 500);
 
   t2 = new Tile2();
+  t4 = new Tile4();
   k = "";
 
   left = false;
@@ -46,6 +48,9 @@ void draw() {
   fill(0);
   textSize(20);
   text(k, 100, 50);
+
+  t4.update();
+  t4.display();
 }
 
 void startScreen() {
@@ -59,19 +64,31 @@ void endScreen() {
 
 void keyPressed() {
   k = "key: " + keyCode;
-  
-  if(keyCode == 37) {
-    left = true; 
-  } else if(keyCode == 38) {
-    up = true; 
-  } else if(keyCode == 39) {
-    right = true; 
-  } else if(keyCode == 40) {
-    down = true; 
-  } 
-  
+
+  if (keyCode == 37) {
+    left = true;
+  } else if (keyCode == 38) {
+    up = true;
+  } else if (keyCode == 39) {
+    right = true;
+  } else if (keyCode == 40) {
+    down = true;
+  }
 }
 
 void keyReleased() {
+  if (keyCode == 37) {
+    left = false;
+    left = true;
+  } else if (keyCode == 38) {
+    up = false;
+    up = true;
+  } else if (keyCode == 39) {
+    right = false;
+    right = true;
+  } else if (keyCode == 40) {
+    down = false;
+    down = true;
+  }
 }
 
