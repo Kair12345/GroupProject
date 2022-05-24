@@ -88,6 +88,9 @@ Here is a example of how Noah organizes our github page to make it much better:
 
 * We got our tile to move left, right, down, up but it goes off the screen and will not stop moving. (Update) We added a keyReleased function to stop the tile movement. 
 
+* We added a function to stop the movement of tiles as it reaches the left side, right side, bottem, or top of the screen. Unfortunately the tiles shake a bit before stopping. 
+
+
 
 
 
