@@ -19,38 +19,38 @@ class Tile2 {
   }
 
   void update() {
-    if (left) {
+    if (left2) {
       speedY = 0;
       speedX = -maxSpeed;
     }
-    if (right) {
+    if (right2) {
       speedY = 0;
       speedX = maxSpeed;
     }
-    if (!left && !right) {
+    if (!left2 && !right2) {
       speedX = 0;
     }
-    if (left && right) {
+    if (left2 && right2) {
       speedX = 0;
-      left = false;
-      right = false;
+      left2 = false;
+      right2 = false;
     }
 
 
-    if (up) {
+    if (up2) {
       speedX = 0;
       speedY = -maxSpeed;
     }
-    if (down) {
+    if (down2) {
       speedX = 0;
       speedY = maxSpeed;
     }
-    if (!up && !down) {
+    if (!up2 && !down2) {
       speedY = 0;
-      up = false;
-      down = false;
+      up2 = false;
+      down2 = false;
     }
-    if (up && down) {
+    if (up2 && down2) {
       speedY = 0;
     }
     checkBounds();
@@ -69,44 +69,40 @@ class Tile2 {
 
   void checkBounds() {
     if (x < -w + 30) {
-      left = false;
-      right = false;
-      up = false;
-      down = false;
+      left2 = false;
+      right2 = false;
+      up2 = false;
+      down2 = false;
       speedX = 0;
       x++;
     }
     if (x > width - 126) {
-      left = false;
-      right = false;
-      up = false;
-      down = false;
+      left2 = false;
+      right2 = false;
+      up2 = false;
+      down2 = false;
       speedX = 0;
       x--;
     }
     if (y < -h + 30) {
-      left = false;
-      right = false;
-      up = false;
-      down = false;
+      left2 = false;
+      right2 = false;
+      up2 = false;
+      down2 = false;
       speedY = 0;
       y++;
     }
     if (y > height - 126) {
-      left = false;
-      right = false;
-      up = false;
-      down = false;
+      left2 = false;
+      right2 = false;
+      up2 = false;
+      down2 = false;
       speedY = 0;
       y--;
     }
   }
 
-  boolean intersect4(Tile4 t4) {
-    //if() {
-    
-    //}
-    return false; 
-  }
-
+  //boolean intersect(tile4 t4) {
+  //  return false;
+  //}
 }
