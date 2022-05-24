@@ -19,38 +19,38 @@ class Tile4 {
   }
 
   void update() {
-    if (left) {
+    if (left4) {
       speedY = 0;
       speedX = -maxSpeed;
     }
-    if (right) {
+    if (right4) {
       speedY = 0;
       speedX = maxSpeed;
     }
-    if (!left && !right) {
+    if (!left4 && !right4) {
       speedX = 0;
     }
-    if (left && right) {
+    if (left4 && right4) {
       speedX = 0;
-      left = false;
-      right = false;
+      left4 = false;
+      right4 = false;
     }
 
 
-    if (up) {
+    if (up4) {
       speedX = 0;
       speedY = -maxSpeed;
     }
-    if (down) {
+    if (down4) {
       speedX = 0;
       speedY = maxSpeed;
     }
-    if (!up && !down) {
+    if (!up4 && !down4) {
       speedY = 0;
-      up = false;
-      down = false;
+      up4 = false;
+      down4 = false;
     }
-    if (up && down) {
+    if (up4 && down4) {
       speedY = 0;
     }
     checkBounds();
@@ -69,34 +69,34 @@ class Tile4 {
 
   void checkBounds() {
     if (x < -w + 30) {
-      left = false;
-      right = false;
-      up = false;
-      down = false;
+      left4 = false;
+      right4 = false;
+      up4 = false;
+      down4 = false;
       speedX = 0;
       x++;
     }
     if (x > width - 126) {
-      left = false;
-      right = false;
-      up = false;
-      down = false;
+      left4 = false;
+      right4 = false;
+      up4 = false;
+      down4 = false;
       speedX = 0;
       x--;
     }
     if (y < -h + 30) {
-      left = false;
-      right = false;
-      up = false;
-      down = false;
+      left4 = false;
+      right4 = false;
+      up4 = false;
+      down4 = false;
       speedY = 0;
       y++;
     }
     if (y > height - 126) {
-      left = false;
-      right = false;
-      up = false;
-      down = false;
+      left4 = false;
+      right4 = false;
+      up4 = false;
+      down4 = false;
       speedY = 0;
       y--;
     }
