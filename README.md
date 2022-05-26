@@ -94,6 +94,8 @@ Here is a example of how Noah organizes our github page to make it much better:
 
 * We added one more tile to be displayed on screen. The new tile's code is the same as the first one but the tiles placement is different and it has different pixel art on it.  
 
+* We assigned different controls (WASD) to the secound tile. The secound tile renders over the first but we think that will not be a problem one the collision detection between the tiles stops them from being in the same location. 
+
 
 
 
