@@ -63,9 +63,9 @@ Here is a example of a part of the code for collision detection written by Kai:
 ![Code](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/KaiCodeContribution.png?raw=true)
 
 ## Noah: 
-Noah's responsibilities for this project will be broader by having him help out with many parts of the project with a focus on organization. While every memeber will contribute to github, Noah will play a larger part in creating a more comprehensive group github page that better represents our project and its progress. 
+Noah's responsibilities for this project will be broader by having him help out with many parts of the project with a focus on organization. 
 
-Here is a example of how Noah organizes our github page to make it much better: 
+Here is a example of how Noah helps our github page to make it much better: 
 ## Noah's Organization 
 ![Code](https://github.com/Kair12345/GroupProject/blob/gh-pages/Images/NoahOrganization.png?raw=true) 
 
